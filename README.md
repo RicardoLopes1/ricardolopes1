@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/paulo-ricardo-da-silva-lopes-092406197" target="blank"><img align="center" src="icon/linkedin-icon.svg" alt="paulo-ricardo-da-silva-lopes-092406197" height="30" width="40" /></a>
-<a href="https://fb.com/ricardosilva31" target="blank"><img align="center" src="icon/facebook-icon.svg" alt="ricardosilva31" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/paulo-ricardo-da-silva-lopes-092406197" target="_blank"><img align="center" src="icon/linkedin-icon.svg" alt="paulo-ricardo-da-silva-lopes-092406197" height="30" width="40" /></a>
+<a href="https://fb.com/ricardosilva31" target="_blank"><img align="center" src="icon/facebook-icon.svg" alt="ricardosilva31" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
