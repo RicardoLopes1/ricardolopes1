@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ricardo Lopes</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Ricardo!</h1>
 <h3 align="center">A Firmware developer for embedded systems from Brazil.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricardolopes1&theme=onedark" alt="ricardolopes1" /></a> </p>
