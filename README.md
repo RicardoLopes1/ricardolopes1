@@ -1,15 +1,11 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Ricardo!</h1>
-<h3 align="center">A Firmware developer for embedded systems from Brazil.</h3>
+<h3 align="center">A Software Developer from Brazil.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricardolopes1&theme=onedark" alt="ricardolopes1" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://ricardolopes1.github.io/](https://ricardolopes1.github.io/)
 
-- 📝 I regularly write articles on [https://ricardolopes1.github.io/blog](https://ricardolopes1.github.io/blog)
-
 - 📫 How to reach me? Send me an e-mail. **prslopes1@gmail.com**
-
-- 📄 Know about my experiences [https://ricardolopes1.github.io/cv](https://ricardolopes1.github.io/cv)
 
 - ⚡ Fun fact **I really like sarcasm and ironies.**
 
