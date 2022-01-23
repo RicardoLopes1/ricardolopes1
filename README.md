@@ -37,6 +37,14 @@
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
+<h3 align="left">Badges:</h3>
+<p align="left"> 
+<a href="#"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/Containers-e-Docker-2022-01-19.png" alt="Containers e Docker" width="20%" height="20%"/> </a> 
+<a href="#"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/Deploy-no-Kubernetes-2022-01-23.png" alt="Deploy no Kubernetes" width="20%" height="20%"/> </a> 
+<a href="#"> <img src="https://github.com/RicardoLopes1/assets/blob/main/icon/Pipelines-CICD-2022-01-23.png" alt="Pipelines CI CD" width="20%" height="20%"/> </a>
+</p>
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardolopes1&show_icons=true&locale=en&layout=compact&theme=onedark" alt="ricardolopes1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardolopes1&show_icons=true&locale=en&theme=onedark" alt="ricardolopes1" /></p>
