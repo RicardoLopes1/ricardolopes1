@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricardolopes1&theme=onedark" alt="ricardolopes1" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://ricardolopes1.github.io/](https://ricardolopes1.github.io/)
+- 👨‍💻 All of my projects are available at [my repositories.](https://github.com/RicardoLopes1?tab=repositories)
 
 - 📫 How to reach me? Send me an e-mail. **prslopes1@gmail.com**
 
