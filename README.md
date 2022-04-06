@@ -5,6 +5,13 @@
 
 - 👨‍💻 All of my projects are available at [my repositories.](https://github.com/RicardoLopes1?tab=repositories)
 
+- [DSMovie](https://github.com/RicardoLopes1/dsmovie)
+    - [Project on-line](https://rlopes-dsmovie.netlify.app/)
+- [Popcorn Movies](https://github.com/RicardoLopes1/popcorn-movies)
+    - [Project on-line](https://rlopes-cinepipoca.netlify.app/)
+- [Project SDS 3](https://github.com/RicardoLopes1/project-sds3)
+    - [Project on-line](https://rlvendas.netlify.app/)
+
 - 📫 How to reach me? Send me an e-mail. **prslopes1@gmail.com**
 
 - ⚡ Fun fact **I really like sarcasm and ironies.**
